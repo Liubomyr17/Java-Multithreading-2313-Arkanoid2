@@ -1,0 +1,13 @@
+2311 Repeat threads
+Make sure that only the methods of the Solution class are called in the someActions method.
+The expected output in the main method:
+Amigo: Mmmmm, beef
+Amigo: knock knock
+Amigo: Zzzzzzz ... 1 sec
+
+Requirements:
+1. The output to the screen should correspond to the condition of the task.
+2. In the someActions method, the sleep method of the Solution class must be called.
+3. The Solution field must have a name field.
+4. In the Solution class, the food field must be present.
+5. The Solution field must have a sound field.

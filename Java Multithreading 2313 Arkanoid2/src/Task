@@ -1,0 +1,13 @@
+2413 Arkanoid 2
+The main class (Arkanoid) will need to store information about the size of the field where all actions will occur.
+Therefore:
+a) add two private fields width (width) and height (height) of type int to the Arkanoid class
+b) create public getters and setters for them
+
+Requirements:
+1. A private field width of type int must be created in the Arkanoid class.
+2. In the Arkanoid class, a private height field of type int must be created.
+3. In the Arkanoid class, the correct getter must be created for the height field.
+4. In the Arkanoid class, the correct getter must be created for the width field.
+5. In the Arkanoid class, the correct setter must be created for the height field.
+6. In the Arkanoid class, the correct setter must be created for the width field.
